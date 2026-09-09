@@ -13,3 +13,5 @@
 /mob/living/basic/bat/Initialize(mapload)
 	. = ..()
 	AddComponent(/datum/component/clickbox, icon_state = "sphere", max_scale = 2)
+
+// blehblehbleh
